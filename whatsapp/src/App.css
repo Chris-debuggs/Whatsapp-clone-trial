@@ -1,0 +1,26 @@
+/* src/App.css */
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #dadbd3;
+}
+
+.app__body {
+  display: flex;
+  background-color: #ededed;
+  width: 90%;
+  height: 90%;
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+/* src/App.css */
+.welcomeMessage {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: gray;
+}

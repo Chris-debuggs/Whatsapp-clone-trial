@@ -1,0 +1,27 @@
+/* src/components/Login.css */
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .login h1 {
+    margin-bottom: 20px;
+    color: #2a2a2a;
+  }
+  
+  .login button {
+    background-color: #0a74da;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .login button:hover {
+    background-color: #084db2;
+  }
+  
